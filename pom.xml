@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.maxdevsoft</groupId>
 	<artifactId>people</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>people</name>
 	<description>Projet REST API with Spring framework to CRUD people</description>
 	<url/>
